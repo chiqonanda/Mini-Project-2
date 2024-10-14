@@ -22,3 +22,20 @@
 ### Memilih Selain dari 3 pilihan di atas
 ![image](https://github.com/user-attachments/assets/89b861c9-ec26-4148-a155-474761be076d)
 - Jika kita mencoba untuk menginput pilihan selain 3 pilihan di atas maka akan kembali seperti semula
+
+## Mode Admin
+### Dibawah ini adalah Username Dan Password untuk menjadi Admin
+![image](https://github.com/user-attachments/assets/b17ba622-fbf6-4197-831f-c2be37874686)
+
+### Jika password salah
+![image](https://github.com/user-attachments/assets/baa2606b-9410-414d-9ae5-7166980b97dd)
+- jika terjadi kesalahan dalam username ataupun password maka akan kembali ke pilihan awal
+
+### Jika password benar
+![image](https://github.com/user-attachments/assets/4a830741-cd6f-4bc1-a20b-9a5d03b5b414)
+- Jika Password benar maka Admin akan disambut dan di berikan 5 pilihan yaitu :
+1. Tambah Campaign
+2. Lihat Campaign
+3. Update Campaign
+4. Hapus Campaign
+5. Logout
