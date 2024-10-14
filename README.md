@@ -8,5 +8,6 @@
 ### Tema : Sistem Pengelolaan Donasi Online
 
 # Flowchart
-![image](https://github.com/user-attachments/assets/234c3d03-5fd4-4b4f-b23b-362924e3343f)
+![image](https://github.com/user-attachments/assets/79b26550-c61e-4409-82b4-87c0d0e86eca)
 
+# Penjelasan
