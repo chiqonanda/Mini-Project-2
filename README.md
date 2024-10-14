@@ -84,4 +84,56 @@
 
 - Melihai Campaign Berfungsi untuk mencetak tabel yang berisi data campaign saat ini
 
-  
+### Logout Admin
+![image](https://github.com/user-attachments/assets/295ee182-a212-4290-b60b-44acd2544b82)
+- ketika logout dari akun admin maka akan kembali ke menu login utama
+
+## Mode Donatur
+
+### Registrasi, login dan keluar
+![image](https://github.com/user-attachments/assets/3eea1aac-f382-4d58-815d-220f6160eec5)
+- Disini donatur dapat untuk membuat akun terlebih dahulu jika belum memiliki aku dengan cara registrasi
+- dan juga donatur dapat keluar untuk menuju menu utama
+
+### Registrasi Berhasil
+![image](https://github.com/user-attachments/assets/b5f22ca9-f50c-4318-9fb5-3b1c8aa82d2b)
+- Saat ada tulisan berhasil maka registrasi berhasil dan bisa langsung login ke akun yang baru di buat
+
+### Registrasi Gagal
+![image](https://github.com/user-attachments/assets/cc1da69a-27d9-4220-a379-4af3a7641e88)
+- Namun jika username  talah dimiliki oleh orang lain registrasi akan gagal
+
+### Login Berhasil
+![image](https://github.com/user-attachments/assets/e2511ccf-674a-45f3-93dc-01647f635635)
+- Ini adalah tampilan jika login dikatakan berhasil
+
+### Login Gagal
+![image](https://github.com/user-attachments/assets/de53196f-20bb-4891-ab56-2012992355ba)
+- Ini adalah tampilan jika login dikatakan gagal
+
+### Lihat campaign dan donasi
+- Saat login berhasil dilakukan maka terdapat 2 opsi yaitu
+1. Lihat Campaign
+2. Logout
+### Jika kita memilih Lihat Campaign maka kita dihadapkan oleh 2 opsi yaitu
+![image](https://github.com/user-attachments/assets/884f1e32-bc76-4785-b7df-08ed6c8dccb7)
+
+### Jika memilih iya maka:
+![image](https://github.com/user-attachments/assets/df93dff4-5be2-478f-bf29-a60c14a0f1d0)
+- kita dapat mendonasikan uang dan setelah kita donasikaan uang otomatis masuk kedalam sistemm
+- dan juga kita bisa memilih untuk mendonasikan lagi atau tidak
+
+### Jika memilih tidak maka:  
+![image](https://github.com/user-attachments/assets/898232a2-a994-4af0-9769-8b5db7477c33)
+- kita bisa hanya melihat tanpa ada arahan untuk berdonasi
+
+### Logout
+![image](https://github.com/user-attachments/assets/ba42b66b-9c00-4740-87dd-0b891eb8e696)
+- Jika memilih pilihan 2 atau logout kita akan diberi salam perpisahann dan juga akan kembali ke menu utama donatur
+
+
+
+
+
+
+
