@@ -97,9 +97,9 @@ def admin():
             elif pilihan == "4":
                 hapus_campaign()
             elif pilihan == "5":
-                print("=" * 25)
+                print("=" * 35)
                 print("Sampai jumpa lagi Admin Ganteng.")
-                print("=" * 25)
+                print("=" * 35)
                 break
             else:
                 print("Pilihan tidak valid.")
@@ -122,7 +122,7 @@ def donasi():
                         # Update total yang sudah dicapai
                         total_sekarang = int(campaign[3])
                         campaign[3] = str(total_sekarang + jumlah_donasi)
-                        update_table()  # Perbarui tabel setelah donasi
+                        update_table() 
                         print(f"Donasi sebesar Rp.{jumlah_donasi} berhasil untuk campaign [{campaign[1]}].")
                         return
                     except:
@@ -196,7 +196,7 @@ def login():
 #  donatur registrasi/login
 def donatur():
     while True:
-        print("\n1. Register\n2. Login\n3. Keluar")
+        print("\n1. Registrasi\n2. Login\n3. Keluar")
         pilihan = input("Pilih opsi (1/2/3): ")
 
         if pilihan == "1":
